@@ -13,9 +13,9 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 ## Apps that will be removed
 - **[App Lounge](https://github.com/Droid-ify/client)**
 - **[Calendar](https://f-droid.org/packages/org.fossify.calendar)**
-- **[/e/ Drive](https://f-droid.org/de/packages/com.github.catfriend1.syncthingandroid)**
-- **[eSpeak](https://f-droid.org/de/packages/org.woheller69.ttsengine)**
-- **[Mail](https://f-droid.org/de/packages/net.thunderbird.android)**
+- **[/e/ Drive](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid)**
+- **[eSpeak](https://f-droid.org/packages/org.woheller69.ttsengine)**
+- **[Mail](https://f-droid.org/packages/net.thunderbird.android)**
 - **[Maps](https://f-droid.org/packages/app.comaps.fdroid)**
 - **[Message](https://f-droid.org/packages/org.fossify.messages)**
 - **[Notes](https://f-droid.org/packages/org.fossify.notes)**
@@ -25,7 +25,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 - **[Browser](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
 - **[Gallery](https://f-droid.org/packages/org.fossify.gallery)**
 - **[Calculator](https://f-droid.org/packages/org.fossify.math)**
-- **[Clock](https://f-droid.org/packages/org.fossify.clock)**
+- **[Clock](https://f-droid.org/packages/com.best.deskclock)**
 - **[Music](https://f-droid.org/packages/org.oxycblt.auxio)**
 - **[Dialer](https://f-droid.org/packages/org.fossify.phone)**
 - **[Contacts](https://f-droid.org/packages/org.fossify.contacts)**
