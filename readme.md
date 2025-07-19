@@ -19,7 +19,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 - **[Maps](https://f-droid.org/packages/app.comaps.fdroid)**
 - **[Message](https://f-droid.org/packages/org.fossify.messages)**
 - **[Notes](https://f-droid.org/packages/org.fossify.notes)**
-- **[PdfViewer](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
+- **[MJ PDF](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
 - **[PWA Player](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
 - **[Tasks](https://f-droid.org/packages/at.techbee.jtx)**
 - **[Browser](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
