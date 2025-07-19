@@ -10,7 +10,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 - **[APatch](https://github.com/bmax121/APatch)**
 - **Any non-stock app-manager or browser** (Unless you don't mind making obtaining new apps mildly inconvenient) ( ͡° ͜ʖ ͡°)
 
-## Other apps that will be removed
+## Apps that will be removed
 - **[App Lounge](https://github.com/Droid-ify/client)**
 - **[Calendar](https://f-droid.org/packages/org.fossify.calendar)**
 - **[/e/ Drive](https://f-droid.org/de/packages/com.github.catfriend1.syncthingandroid)**
@@ -34,7 +34,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 
 Replace them with whatever you like. If you don't know of a good replacement, every list entry is linked to an alternative app for you to install:
 
-## App-recommendations
+## Other app-recommendations
 - **[Droid-ify (F-Droid)](https://github.com/Droid-ify/client)**
 - **[AuroraStore (Playstore)](https://github.com/whyorean/AuroraStore)**
 - **[Obtainium (Multi-Source)](https://github.com/ImranR98/Obtainium)**
