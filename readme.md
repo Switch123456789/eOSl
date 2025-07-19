@@ -1,5 +1,5 @@
-# eOSl (/e/OS/lite)
-I made this APModule because some apps cannot be disabled in /e/OS and because I enjoy using my own choice of (mostly non-meruna) apps anyway. LOS would be the best mitigation but ....... c’est la vie.
+# /e/OS/lite (eOSl)
+I made this APModule because I don't use most muerna-apps & many of them can't be disabled. So I might as well just get rid of them.  Using LineageOS would be the best mitigation but ....... c’est la vie.
 
 It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/OS 3.1) but your mileage may vary. If things go south, you can always spam "volume down" while booting to disable all Modules and get the murena-apps back.
 
@@ -8,7 +8,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 - **/e/OS v3.1 or higher**
 - **Unlocked bootloader**
 - **[APatch](https://github.com/bmax121/APatch)**
-- **Any non-stock app-manager or browser** (Unless you don't mind making obtaining new apps mildly inconvenient) ( ͡° ͜ʖ ͡°)
+- **Any non-stock app-manager or browser** (Unless you wanna make obtaining new apps mildly inconvenient) ( ͡° ͜ʖ ͡°)
 
 ## Apps that will be removed
 - **[App Lounge](https://github.com/Droid-ify/client)**
@@ -34,7 +34,7 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 
 Replace them with whatever you like. If you don't know of a good replacement, every list entry is linked to an alternative app for you to install:
 
-## Other app-recommendations
+## More alternative apps
 - **[Droid-ify (F-Droid)](https://github.com/Droid-ify/client)**
 - **[AuroraStore (Playstore)](https://github.com/whyorean/AuroraStore)**
 - **[Obtainium (Multi-Source)](https://github.com/ImranR98/Obtainium)**
