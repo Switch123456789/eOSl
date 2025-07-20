@@ -54,4 +54,4 @@ Replace them with whatever you like. If you don't know of a good replacement, ev
 - **[OSS Document Scanner](https://fdroid.link/#https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A):** Take photos and turn them into scans and/or apply OCR
 - **[PairDrop](https://f-droid.org/packages/com.fmsys.snapdrop):** Quickly share files across LAN & WAN by simply opening the app or via Androids share feature.
 - **[PlainApp](https://f-droid.org/packages/com.ismartcoding.plain):** Best way to manage data on your phone via a browser in the same local network
-- **[SCEE](https://f-droid.org/packages/de.westnordost.streetcomplete.expert):** answer a few OSM related questions while roaming around places, to bring OSM map-data up to date.
+- **[SCEE](https://f-droid.org/packages/de.westnordost.streetcomplete.expert):** Answer a few OSM related questions while roaming around places, to bring OSM map-data up to date.
