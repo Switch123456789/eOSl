@@ -11,10 +11,10 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 - **Any non-stock app-manager or browser** (Unless you wanna make obtaining new apps mildly inconvenient) ( ͡° ͜ʖ ͡°)
 
 ## Apps that will be removed
-- **[App Lounge](https://github.com/Droid-ify/client)**
+- **[App Lounge](https://f-droid.org/packages/com.looker.droidify)**
 - **[BlissWeather](https://f-droid.org/packages/org.breezyweather)**
 - **[Browser](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B)**
-- **[Calculator](https://f-droid.org/packages/org.fossify.math)**
+- **[Calculator](https://f-droid.org/packages/net.youapps.calcyou)**
 - **[Calendar](https://f-droid.org/packages/org.fossify.calendar)**
 - **[Clock](https://f-droid.org/packages/com.best.deskclock)**
 - **[Contacts](https://f-droid.org/packages/org.fossify.contacts)**
@@ -45,10 +45,10 @@ Replace them with whatever you like. If you don't know of a good replacement, ev
 ## More foss app-recommendations:
 - **[AuroraStore](https://github.com/whyorean/AuroraStore):** Installs apps from Google's Playstore
 - **[Dicio](https://f-droid.org/packages/org.stypox.dicio):** Multilingual Voice Assistant
-- **[FastDraw](https://f-droid.org/packages/peterfajdiga.fastdraw/):** A launcher that's pretty simple but effective, it fits well.
+- **[FastDraw](https://f-droid.org/packages/peterfajdiga.fastdraw):** A launcher that's pretty simple but effective, it fits well.
 - **[FUTO Keyboard](https://fdroid.link/#https://app.futo.org/fdroid/repo?fingerprint=39D47869D29CBFCE4691D9F7E6946A7B6D7E6FF4883497E6E675744ECDFA6D6D):** Very powerful and versatile keyboard, it has all the bells and whistles
-- **[Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/):** Open google-maps links in non-google-apps
-- **[KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/):** Powerful offline password manager
+- **[Geo Share](https://f-droid.org/packages/page.ooooo.geoshare):** Open google-maps links in non-google-apps
+- **[KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre):** Powerful offline password manager
 - **[Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup):** Make backups of all apps and some Android configurations
 - **[NeoStumbler](https://f-droid.org/packages/xyz.malkki.neostumbler.fdroid):** Collect data for cell towers, Wi-Fi access points & Bluetooth beacons to send it to geo location services.
 - **[OSS Document Scanner](https://fdroid.link/#https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A):** Take photos and turn them into scans and/or apply OCR
