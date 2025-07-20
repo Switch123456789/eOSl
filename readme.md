@@ -12,25 +12,33 @@ It's VERY basic but the debloat-effect is schmackofatzo. It's stable for me (/e/
 
 ## Apps that will be removed
 - **[App Lounge](https://github.com/Droid-ify/client)**
+- **[BlissWeather](https://f-droid.org/packages/org.breezyweather)**
+- **[Browser](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
+- **[Calculator](https://f-droid.org/packages/org.fossify.math)**
 - **[Calendar](https://f-droid.org/packages/org.fossify.calendar)**
+- **[Clock](https://f-droid.org/packages/com.best.deskclock)**
+- **[Contacts](https://f-droid.org/packages/org.fossify.contacts)**
+- **[Dialer](https://f-droid.org/packages/org.fossify.phone)**
 - **[/e/ Drive](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid)**
 - **[eSpeak](https://f-droid.org/packages/org.woheller69.ttsengine)**
+- **[FindMyDevice](https://f-droid.orgpackages/de.nulide.findmydevice)**
+- **[Gallery](https://f-droid.org/packages/org.fossify.gallery)**
 - **[Mail](https://f-droid.org/packages/net.thunderbird.android)**
 - **[Maps](https://f-droid.org/packages/app.comaps.fdroid)**
 - **[Message](https://f-droid.org/packages/org.fossify.messages)**
-- **[Notes](https://f-droid.org/packages/org.fossify.notes)**
 - **[MJ PDF](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
+- **[Music](https://f-droid.org/packages/org.oxycblt.auxio)**
+- **[Notes](https://f-droid.org/packages/org.fossify.notes)**
 - **[PWA Player](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
 - **[Tasks](https://f-droid.org/packages/at.techbee.jtx)**
-- **[Browser](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517)**
-- **[Gallery](https://f-droid.org/packages/org.fossify.gallery)**
-- **[Calculator](https://f-droid.org/packages/org.fossify.math)**
-- **[Clock](https://f-droid.org/packages/com.best.deskclock)**
-- **[Music](https://f-droid.org/packages/org.oxycblt.auxio)**
-- **[Dialer](https://f-droid.org/packages/org.fossify.phone)**
-- **[Contacts](https://f-droid.org/packages/org.fossify.contacts)**
-- **[FindMyDevice](https://f-droid.orgpackages/de.nulide.findmydevice)**
-- **[BlissWeather](https://f-droid.org/packages/org.breezyweather)**
+
+
+
+
+
+
+
+
 
 Replace them with whatever you like. If you don't know of a good replacement, every list entry is linked to an alternative app for you to install:
 
