@@ -1,7 +1,7 @@
 # /e/OS/lite (eOSl)
 I made this APModule because I am looking for a **stock Android-experience** similar to LineageOS and since **LineageOS ist not yet available** for the Fairphone 6, this module acts as a **temporary solution until the release**.
 
-If things go south (which I doubt they ever will), simply spam the "volume down" button while booting the phone. This disables all APModules and brings back all murena-apps back.
+If things go south (which I doubt they ever will), simply spam the "volume down" button while booting the phone. This disables all APModules and brings back all murena-apps.
 
 ## Requirements
 - **Fairphone 6** (might work on other phones too)
