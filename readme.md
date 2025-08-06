@@ -30,6 +30,7 @@ If things go south (which I doubt they ever will), simply spam the "volume down"
 - **[MdmProvisioner / MurenaMdmStub](https://f-droid.org/packages/com.hmdm.launcher)**
 - **[Message](https://f-droid.org/packages/org.fossify.messages)**
 - **[MJ PDF](https://fdroid.link/#https://www.cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B)**
+- **[Ntfy](https://f-droid.org/en/packages/io.heckel.ntfy/)**
 - **[Music](https://f-droid.org/packages/org.oxycblt.auxio)**
 - **[Notes](https://f-droid.org/packages/org.fossify.notes)**
 - **[PWA Player](https://fdroid.link/#https://cromite.org/fdroid/repo?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B)**

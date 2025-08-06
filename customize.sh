@@ -22,4 +22,5 @@ REMOVE="
 /system/system_ext/priv-app/BlissWeather
 /system/system_ext/priv-app/MurenaMDM
 /system/system_ext/priv-app/MdmProvisioner
+/system/system_ext/priv-app/Ntfy
 "
