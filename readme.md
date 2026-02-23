@@ -1,3 +1,4 @@
+**DEPRECATED**
 # /e/OS/lite (eOSl)
 I made this APModule because I am looking for a **stock Android-experience** similar to LineageOS and since **LineageOS is not yet available** for the Fairphone 6, this module acts as a **temporary solution until the release**.
 
@@ -5,7 +6,7 @@ If things go south (which I doubt they ever will), simply spam the "volume down"
 
 ## Requirements
 - **Fairphone 6** (might work on other phones too)
-- **/e/OS v3.1 or v3.2**
+- **/e/OS version 3.2-3.5
 - **Unlocked bootloader**
 - **[APatch](https://github.com/bmax121/APatch) installed**
 - **Any non-stock app-manager or browser** (Unless you wanna make obtaining new apps mildly inconvenient)
