@@ -6,7 +6,7 @@ If things go south (which I doubt they ever will), simply spam the "volume down"
 
 ## Requirements
 - **Fairphone 6** (might work on other phones too)
-- **/e/OS version 3.2-3.5
+- **/e/OS version 3.2-3.5**
 - **Unlocked bootloader**
 - **[APatch](https://github.com/bmax121/APatch) installed**
 - **Any non-stock app-manager or browser** (Unless you wanna make obtaining new apps mildly inconvenient)
